@@ -1,4 +1,4 @@
-# NGS_scripts
+# Scripts used for genomics and bioinformatics
 
 
 ## batchPreprocess.HT.py - submit jobs to the TORQUE cluter in batch
